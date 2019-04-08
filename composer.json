@@ -1,0 +1,22 @@
+{
+    "name": "forpost/novaclients",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Viktor Afanasiev",
+            "email": "afanasiev.v@forpost-system.com"
+        }
+    ],
+    "repositories": [{
+        "type": "package",
+        "package": {
+            "name": "forpost/novaclients",
+            "version": "0.1.0",
+            "source": {
+
+            }
+        }
+    }
+    ],
+    "require": {}
+}
